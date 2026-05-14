@@ -5,7 +5,7 @@ import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
 
-@Database(entities = [Station::class, Connection::class], version = 1, exportSchema = false)
+@Database(entities = [Station::class, Connection::class], version = 2, exportSchema = false)
 abstract class AppDatabase : RoomDatabase() {
     abstract fun metroDao(): MetroDao
 
@@ -19,7 +19,9 @@ abstract class AppDatabase : RoomDatabase() {
                     context.applicationContext,
                     AppDatabase::class.java,
                     "metro_database"
-                ).build()
+                )
+                .fallbackToDestructiveMigration() // Allow destructive migration for development
+                .build()
                 INSTANCE = instance
                 instance
             }
