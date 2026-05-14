@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ನಮ್ಮ ಮೆಟ್ರೋ ಸಹಾಯ</string>
+    <string name="where_are_you">ನೀವು ಎಲ್ಲಿದ್ದೀರಿ?</string>
+    <string name="where_to_go">ನೀವು ಎಲ್ಲಿಗೆ ಹೋಗಬೇಕೆಂದು ಬಯಸುತ್ತೀರಿ?</string>
+    <string name="find_route">ಮಾರ್ಗವನ್ನು ಹುಡುಕಿ</string>
+    <string name="from">ಇಲ್ಲಿಂದ</string>
+    <string name="to">ಇಲ್ಲಿಗೆ</string>
+    <string name="fare_est">ಅಂದಾಜು ದರ: ₹%d</string>
+    <string name="time_est">ಅಂದಾಜು ಸಮಯ: %d ನಿಮಿಷಗಳು</string>
+    <string name="step_by_step">ಹಂತ ಹಂತದ ಮಾರ್ಗದರ್ಶಿ</string>
+    <string name="exit_info">ನಿರ್ಗಮನ ಮಾಹಿತಿ</string>
+    <string name="interchange_alert">ಮೆಜೆಸ್ಟಿಕ್ ನಿಲ್ದಾಣದಲ್ಲಿ ರೈಲು ಬದಲಾಯಿಸಿ</string>
+    <string name="go_to_platform">ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ %1$s ಗೆ ಹೋಗಿ</string>
+    <string name="take_line">%s ಲೈನ್ ರೈಲನ್ನು %s ಕಡೆಗೆ ತೆಗೆದುಕೊಳ್ಳಿ</string>
+    <string name="check_status">ನಿಲ್ದಾಣದ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ</string>
+    <string name="station_available">ಲಭ್ಯವಿದೆ</string>
+    <string name="station_unavailable">ಲಭ್ಯವಿಲ್ಲ</string>
+    <string name="read_instructions">ಸೂಚನೆಗಳನ್ನು ಓದಿ</string>
+    <string name="stay_on_train">ರೈಲಿನಲ್ಲೇ ಇರಿ. ಮುಂದಿನ ನಿಲ್ದಾಣ: %1$s</string>
+    <string name="arrival_at">%1$s ನಿಲ್ದಾಣಕ್ಕೆ ತಲುಪಿದ್ದೀರಿ. %2$s.</string>
+    <string name="line_suffix">%s ಲೈನ್</string>
+
+    <string name="step_purchase">ಕೌಂಟರ್‌ನಲ್ಲಿ ಟಿಕೆಟ್ ಖರೀದಿಸಿ ಅಥವಾ ಸ್ಮಾರ್ಟ್ ಕಾರ್ಡ್ ಬಳಸಿ.</string>
+    <string name="step_tap_entry">ಪ್ರವೇಶಿಸಲು ಪ್ರವೇಶ ದ್ವಾರದಲ್ಲಿ ನಿಮ್ಮ ಟಿಕೆಟ್ ಅಥವಾ ಕಾರ್ಡ್ ಅನ್ನು ಟ್ಯಾಪ್ ಮಾಡಿ.</string>
+    <string name="step_board">%1$s ಲೈನ್ ರೈಲನ್ನು %2$s ಕಡೆಗೆ ಹತ್ತಿ.</string>
+    <string name="step_tap_exit">ನಿಲ್ದಾಣದಿಂದ ಹೊರಬರಲು ನಿರ್ಗಮನ ದ್ವಾರದಲ್ಲಿ ನಿಮ್ಮ ಟಿಕೆಟ್ ಅಥವಾ ಕಾರ್ಡ್ ಅನ್ನು ಟ್ಯಾಪ್ ಮಾಡಿ.</string>
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Namma Metro Sahayaa</string>
+    <string name="where_are_you">Where are you? (ನೀವು ಎಲ್ಲಿದ್ದೀರಿ?)</string>
+    <string name="where_to_go">Where do you want to go? (ನೀವು ಎಲ್ಲಿಗೆ ಹೋಗಬೇಕೆಂದು ಬಯಸುತ್ತೀರಿ?)</string>
+    <string name="find_route">Find Route (ಮಾರ್ಗವನ್ನು ಹುಡುಕಿ)</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="fare_est">Estimated Fare: ₹%d</string>
+    <string name="time_est">Estimated Time: %d mins</string>
+    <string name="step_by_step">Step-by-Step Guide (ಹಂತ ಹಂತದ ಮಾರ್ಗದರ್ಶಿ)</string>
+    <string name="exit_info">Exit Information</string>
+    <string name="interchange_alert">Change line at Majestic Station (ಮೆಜೆಸ್ಟಿಕ್ ನಿಲ್ದಾಣದಲ್ಲಿ ರೈಲು ಬದಲಾಯಿಸಿ)</string>
+    <string name="go_to_platform">Go to %1$s (ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ %1$s ಗೆ ಹೋಗಿ)</string>
+    <string name="take_line">Take %1$s Line toward %2$s</string>
+    <string name="check_status">Check Station Status</string>
+    <string name="station_available">Available</string>
+    <string name="station_unavailable">Unavailable</string>
+    <string name="read_instructions">Read Instructions (ಕೇಳಿಸಿ)</string>
+    <string name="stay_on_train">Stay on the train. Next: %1$s (ರೈಲಿನಲ್ಲೇ ಇರಿ. ಮುಂದಿನ ನಿಲ್ದಾಣ: %1$s)</string>
+    <string name="arrival_at">Arrival at %1$s. %2$s. (ನಿಮ್ಮ ಗುರಿ ತಲುಪಿದ್ದೀರಿ. %3$s)</string>
+    <string name="line_suffix">%s Line</string>
+
+    <string name="step_purchase">Purchase a ticket at the counter or use a smart card. (ಕೌಂಟರ್‌ನಲ್ಲಿ ಟಿಕೆಟ್ ಖರೀದಿಸಿ ಅಥವಾ ಸ್ಮಾರ್ಟ್ ಕಾರ್ಡ್ ಬಳಸಿ.)</string>
+    <string name="step_tap_entry">Tap your ticket or card at the entry gate to enter. (ಪ್ರವೇಶಿಸಲು ಪ್ರವೇಶ ದ್ವಾರದಲ್ಲಿ ನಿಮ್ಮ ಟಿಕೆಟ್ ಅಥವಾ ಕಾರ್ಡ್ ಅನ್ನು ಟ್ಯಾಪ್ ಮಾಡಿ.)</string>
+    <string name="step_board">Board the %1$s Line train toward %2$s. (%1$s ಲೈನ್ ರೈಲನ್ನು %2$s ಕಡೆಗೆ ಹತ್ತಿ.)</string>
+    <string name="step_tap_exit">Tap your ticket or card at the exit gate to leave the station. (ನಿಲ್ದಾಣದಿಂದ ಹೊರಬರಲು ನಿರ್ಗಮನ ದ್ವಾರದಲ್ಲಿ ನಿಮ್ಮ ಟಿಕೆಟ್ ಅಥವಾ ಕಾರ್ಡ್ ಅನ್ನು ಟ್ಯಾಪ್ ಮಾಡಿ.)</string>
+</resources>
